@@ -9,7 +9,6 @@
 - 👨🏻‍🎓 &nbsp; I’m a student of Computer science and engineering at **Medicaps University, Indore (M.P.).**
 - 🔭 &nbsp; I’m currently learning Flutter Application Development.
 - 🤝 &nbsp; I’m looking to collaborate on **Django Projects**
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Android developer and Django developer.
 - 📩 &nbsp; Reach me at **ram.paliwal49@gmail.com**
 
