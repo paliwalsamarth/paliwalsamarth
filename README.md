@@ -17,7 +17,7 @@
 - 💻 &nbsp; Python | Dart | C++ //add java 
 - 🌐 &nbsp; Django | Android | flutter
 - 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | Visual Studio code | Git
+- 🔧 &nbsp; Visual Studio code | Android Studio| Git
 
 <br>
 
