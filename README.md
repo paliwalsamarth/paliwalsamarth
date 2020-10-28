@@ -14,7 +14,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Dart | C++ //add java 
+- 💻 &nbsp; Python | Dart | Java | C++ 
 - 🌐 &nbsp; Django | Android | flutter
 - 🛢 &nbsp; MySQL | Firebase | Xampp
 - 🔧 &nbsp; Visual Studio code | Android Studio| Git
