@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Samarth Paliwal. <img src="https://raw.githubusercontent.com/RamSamarthPaliwal/RamSamarthPaliwal/main/Hi.gif?token=AECNJV665B5GD4PSG5BQTYS7TE5PQ" width="25"></h2>
+<h2> Hey there! I'm Samarth Paliwal. <img src="https://github.com/RamSamarthPaliwal/RamSamarthPaliwal/blob/main/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/RamSamarthPaliwal/RamSamarthPaliwal/main/gif3.gif?token=AECNJV665B5GD4PSG5BQTYS7TE5PQ" width="500"/>
 
 ![](https://komarev.com/ghpvc/?username=RamSamarthPaliwal&color=blue&label=PROFILE+VIEWS)
