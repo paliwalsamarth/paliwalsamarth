@@ -1,7 +1,7 @@
 <h2> Hey there! I'm Samarth Paliwal. <img src="https://github.com/paliwalsamarth/paliwalsamarth/blob/main/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://github.com/paliwalsamarth/paliwalsamarth/blob/main/gif3.gif" width="500"/>
 
-![](https://komarev.com/ghpvc/?username=paliwalsamarth&color=blue&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=RamSamarthPaliwal&color=blue&label=PROFILE+VIEWS)
 
 
 <h3> 👨🏻‍💻 About Me </h3>
