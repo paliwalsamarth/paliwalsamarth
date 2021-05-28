@@ -9,7 +9,7 @@
 - 👨🏻‍🎓 &nbsp; I’m a student of Computer science and engineering at **Medicaps University, Indore (M.P.).**
 - 🤝 &nbsp; I’m looking to collaborate on **Django Projects**
 - 💼 &nbsp; Backend Developer, Django developer
-- 📩 &nbsp; Reach me at **ram.paliwal49@gmail.com**
+- 📩 &nbsp; Reach me at **ipaliwalsamarth@gmail.com** (Secondary mail : ram.paliwal49@gmail.com)
 
 <h3>🛠 Tech Stack</h3>
 
