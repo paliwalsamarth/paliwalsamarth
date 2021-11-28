@@ -8,15 +8,15 @@
 
 - 👨🏻‍🎓 &nbsp; I’m a student of Computer science and engineering at **Medicaps University, Indore (M.P.).**
 - 🤝 &nbsp; I’m looking to collaborate on **Django Projects**
-- 💼 &nbsp; Backend Developer, Django developer
+- 💼 &nbsp; Backend Developer, Django developer, Angular developer
 - 📩 &nbsp; Reach me at **ram.paliwal49@gmail.com**
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Dart | Java | C++ 
-- 🌐 &nbsp; Django | Android | flutter
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Visual Studio code | Android Studio | Git
+- 💻 &nbsp; Python | Javascript| C++ 
+- 🌐 &nbsp; Django | Angular
+- 🛢 &nbsp; Postgres | MySQL | Sqlite
+- 🔧 &nbsp; VS code | PyCharm | Git
 
 <br>
 
