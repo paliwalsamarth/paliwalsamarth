@@ -6,17 +6,17 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 👨🏻‍🎓 &nbsp; I’m a student of Computer science and engineering at **Medicaps University, Indore (M.P.).**
-- 🤝 &nbsp; I’m looking to collaborate on **Django Projects**
-- 💼 &nbsp; Backend Developer, Django developer, Angular developer
+- 👨🏻‍🎓 &nbsp; I’m a Software Engineer.
+- 🤝 &nbsp; I’m looking to collaborate on **Interesting Projects**
+- 💼 &nbsp; Full Stack Developer
 - 📩 &nbsp; Reach me at **ram.paliwal49@gmail.com**
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Javascript | C++ 
-- 🌐 &nbsp; Django | Angular
-- 🛢 &nbsp; Postgres | MySQL | Sqlite
-- 🔧 &nbsp; VS code | PyCharm | Git
+- 🌐 &nbsp; Django | Angular | React | Next Js | NodeJs
+- 🛢 &nbsp; Postgres | MySQL | Sqlite | Neo4j
+- 🔧 &nbsp; VS code | PyCharm | Git 
 
 <br>
 
